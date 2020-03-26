@@ -1,0 +1,1 @@
+cmd  -> type "dotnet test" to run testfile 
