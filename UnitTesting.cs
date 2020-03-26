@@ -79,7 +79,7 @@ public class UnitTesting
 }
 
 // -- MOQ TEST-- 
-
+/*
 public class Human
 {
     Sentence sentence;
@@ -144,4 +144,4 @@ public class Faker : Stubby
     {
         return IHaveLotsOfArguments("Sit back", "and let me", "run");
     }
-} 
+} */
