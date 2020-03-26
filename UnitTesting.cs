@@ -3,7 +3,7 @@ using System;
 using Moq;
 
 // --ASSERTION TESTS--
-//This is a test
+
 public class UnitTesting
 {
     [Fact]
