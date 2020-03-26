@@ -3,7 +3,7 @@ using System;
 using Moq;
 
 // --ASSERTION TESTS--
-
+// a random text
 public class UnitTesting
 {
     [Fact]
